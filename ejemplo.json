@@ -13,10 +13,7 @@
         {"nombre": "Cliente1", "edad": 28},
         {"nombre": "Cliente2", "edad": 34},
         {"nombre": "Cliente3", "edad": 22},
-        {"nombre": "Cliente4", "edad": 45},
-        {"nombre": "Cliente5", "edad": 30},
-        {"nombre": "Cliente6", "edad": 27},
-        {"nombre": "Cliente7", "edad": 31}
+        {"nombre": "Cliente4", "edad": 45}
     ]
 }
 
